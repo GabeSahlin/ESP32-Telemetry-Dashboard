@@ -19,6 +19,11 @@ If you are developing a production application, we recommend using TypeScript wi
 
 run 
 ```
+npm i
+```
+and
+
+```
 npm run dev
 ```
 to locall run environment
